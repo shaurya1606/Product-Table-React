@@ -52,7 +52,7 @@ product-table/
 ├── public/        # Static files
 ├── build/         # Production build
 └── package.json   # Project configuration
-```
+``` 
 
 ## 🔄 Dependencies
 
